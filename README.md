@@ -24,6 +24,8 @@
 
 ## 第一步 运行哔哩哔哩互动姫
 
+>**作者己配置好互动，请勿修改乱配置**
+
 **解压 BiliBiliInteraction_1.6.8.2_X.X.X**
 
 >**BiliBiliInteraction_互动姫版本号_插件版本号**
